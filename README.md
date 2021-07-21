@@ -1,2 +1,4 @@
 # Browse-AB-test
-It is necessary to analyze the AB test conducted on real Yandex users, confirm or deny the presence of changes in user behavior between the control and test (exp) groups, determine the nature of these changes and the practical significance of the introduced change, understand which of the user groups most loses / benefits from tested change (localize change)
+English: It is necessary to analyze the AB test conducted on real Yandex users, confirm or deny the presence of changes in user behavior between the control and test (exp) groups, determine the nature of these changes and the practical significance of the introduced change, understand which of the user groups most loses / benefits from tested change (localize change)
+
+На русском: Необходимо проанализировать AB-тест, проведенный на реальных пользователях Яндекса, подтвердить или опровергнуть наличие изменений в поведении пользователей между обучающей и тестовой группами, определить характер этих изменений и практическую значимость внесенного изменения, понять какая из групп пользователей больше всего проигрывает / выигрывает от протестированного изменения (локализовать изменение)
